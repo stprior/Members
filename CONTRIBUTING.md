@@ -8,7 +8,7 @@ Here are some important resources:
 
   * [Governance document](.....) tells you where we are,
   * [Our roadmap](...) is the 10k foot view of where we're going, and
-  * [Tracker](https://github.com/rchain/Members/issues/3#boards?repos=84472896) is our day-to-day project management space. Works only with #Chrome.
+  * [Members](https://github.com/rchain/Members/issues/#boards) is our day-to-day project management space. Works only with ZenHub.
   * Mailing list: Join our [developer list](http://groups.google.com/group/rchain/) >> Has to be set up still
   * Bugs/Suggestions? [Github](https://github.com/rchain/Members/issues/) is where to report them
   
